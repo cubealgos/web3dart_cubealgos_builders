@@ -1,7 +1,7 @@
 # Description
 
-Helper package for the ([xclud/web3dart](https://github.com/xclud/web3dart)) library responsible for generating dart classes from abi contracts
-This project is part of this repository [simolus3/web3dart](https://github.com/simolus3/web3dart).
+Helper package for the ([cubealgos/web3dart_cubealgos](https://github.com/cubealgos/web3dart_cubealgos)) library responsible for generating dart classes from abi contracts
+This project is part of this repository [cubealgos/web3dart_cubealgos](https://github.com/cubealgos/web3dart_cubealgos).
 
 
 # Requirements
