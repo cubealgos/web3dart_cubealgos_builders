@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:web3dart/contracts.dart';
+import 'package:web3dart_cubealgos/contracts.dart';
 
 /// Parses solidity documentation comments from the generated compiler
 /// output.

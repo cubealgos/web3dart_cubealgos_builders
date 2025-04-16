@@ -1,6 +1,5 @@
 import 'package:code_builder/code_builder.dart' hide FunctionType;
-import 'package:web3dart/contracts.dart';
-
+import 'package:web3dart_cubealgos/contracts.dart';
 
 const package = 'package:web3dart/web3dart.dart';
 
@@ -39,11 +38,11 @@ final mutabilities = {
 
 final functionTypes = {
   ContractFunctionType.function:
-  refer('ContractFunctionType.function', package),
+      refer('ContractFunctionType.function', package),
   ContractFunctionType.fallback:
-  refer('ContractFunctionType.fallback', package),
+      refer('ContractFunctionType.fallback', package),
   ContractFunctionType.constructor:
-  refer('ContractFunctionType.constructor', package),
+      refer('ContractFunctionType.constructor', package),
 };
 
 Reference futurize(Reference r) {
